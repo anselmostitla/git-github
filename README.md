@@ -1,2 +1,6 @@
 # git-github
-This is for tutorial purpose and I walk you througt everything you need to star a project and colaboriting using BLAck 
+Some useful commands:
+
+git init
+git remote add origin "" (to get files from github to git)
+git pull origin master

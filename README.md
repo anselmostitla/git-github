@@ -13,3 +13,9 @@ git add <your file> (lets you add files to your index)
 
 git commit -m "adding first commit in local repo"
 
+
+git add -A (lets you add ALL files to your index)
+
+git commit -a "adding three files toguether"
+
+

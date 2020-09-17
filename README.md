@@ -24,3 +24,5 @@ git commit -a -m "adding three files toguether to local repository not to centra
 ################################################
 
 git branch BranchName .....# To create a new branch 
+
+git checkout BranchName .....# To switch to branch BranchName

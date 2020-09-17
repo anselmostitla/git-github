@@ -21,4 +21,6 @@ git add -A .....# lets you add all files to your INDEX to be commited
 
 git commit -a -m "adding three files toguether to local repository not to central"
 
+################################################
 
+git branch BranchName .....# To create a new branch 

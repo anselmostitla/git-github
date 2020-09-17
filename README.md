@@ -3,7 +3,7 @@ Some useful commands:
 
 git init
 
-git remote add origin "LINK"          # to get files from github to git)
+git remote add origin "LINK"          ...# to get files from github to git
 
 git pull origin master
 

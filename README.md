@@ -34,3 +34,9 @@ git checkout BranchName .....# To switch to branch BranchName
 git merge BranchName .....# to merge the branch BranchName to Master branch
 
 ################################################
+
+git rm -f FILE.EXT .....# to force to remove a file from directory, index and the commited area
+
+################################################
+
+

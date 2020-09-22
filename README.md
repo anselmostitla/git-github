@@ -39,4 +39,8 @@ git rm -f FILE.EXT .....# to force to remove a file from directory, index and th
 
 ################################################
 
+git push -u origin master .....# to push files from local master branch to central master branch
+
+################################################
+
 

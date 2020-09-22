@@ -43,4 +43,8 @@ git push -u origin master .....# to push files from local master branch to centr
 
 ################################################
 
+touch .gitignore .....# to create a file directly from Git Bash
+
+################################################
+
 
